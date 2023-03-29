@@ -1,0 +1,12 @@
+* {
+    justify-content: space-between;
+}
+
+.btn:hover {
+    background-color: #3A5311;
+    color: white;
+}
+
+.nav-link:hover {
+    font-weight: 600;
+}
